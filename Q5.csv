@@ -1,0 +1,14 @@
+_id,marks,name,reason,subject
+623883873bcd030bdf3053ed,87,Ramesh,,maths
+623883873bcd030bdf3053ee,59,Ramesh,,english
+623883873bcd030bdf3053ef,77,Ramesh,,science
+623883873bcd030bdf3053f0,62,Rav,,maths
+623883873bcd030bdf3053f1,83,Rav,,english
+623883873bcd030bdf3053f2,71,Rav,,science
+623883873bcd030bdf3053f3,84,Alison,,maths
+623883873bcd030bdf3053f4,82,Alison,,english
+623883873bcd030bdf3053f5,86,Alison,,science
+623883873bcd030bdf3053f6,81,Steve,,maths
+623883873bcd030bdf3053f7,89,Steve,,english
+623883873bcd030bdf3053f8,77,Steve,,science
+623883873bcd030bdf3053f9,0,Jan,absent,english
